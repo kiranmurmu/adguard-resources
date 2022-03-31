@@ -1,0 +1,23 @@
+{
+  "name": "adguard-resources",
+  "version": "0.1.0",
+  "description": "Custom JavaScript API and UserScript for AdGuard AdBlocker!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Kiran Murmu",
+    "email": "kiranmurmu@outlook.in"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.8",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/preset-typescript": "^7.16.7",
+    "@typescript-eslint/eslint-plugin": "^5.17.0",
+    "eslint": "^8.12.0",
+    "typescript": "^4.6.3"
+  }
+}
